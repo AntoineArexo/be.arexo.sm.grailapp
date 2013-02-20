@@ -12,7 +12,7 @@ grails.project.source.level = 1.6
 //]
 
 grails.plugin.location.'be-arexo-sm-plugin1'="plugins/be-arexo-sm-plugin1"
-
+grails.plugin.location.'be-arexo-sm-plugin1'="plugins/be-arexo-sm-plugin2"
 grails.project.dependency.resolution = {
     // inherit Grails' default dependencies
     inherits("global") {
