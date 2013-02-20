@@ -1,3 +1,6 @@
 [submodule "plugins/be-arexo-sm-plugin1"]
 	path = plugins/be-arexo-sm-plugin1
 	url = git@github.com:FifToine/be.arexo.sm.plugin1.git
+[submodule "plugins/be-arexo-sm-plugin2"]
+	path = plugins/be-arexo-sm-plugin2
+	url = git@github.com:FifToine/be.arexo.sm.plugin2.git
